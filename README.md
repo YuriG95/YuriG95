@@ -1,6 +1,6 @@
-## Olá, eu sou o Yuri Garcia, estudante, desenvolvedor e analista de sistemas ! 👋
+## Olá, eu sou o Yuri Garcia, desenvolvedor e analista de sistemas ! 👋
 
-- 🔭 Trabalho como analista de sistemas, tester e desenvolvedor.
+- 🔭 Trabalho como analista de sistemas,desenvolvedor e tester .
 - 🌱 Backend - Python, NodeJs, Ruby
 - 👾 Frontend - Html,Css,JS
 - 🎲 Banco de dados -  SQL ,No Sql via Ide ou Shell.
