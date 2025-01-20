@@ -9,8 +9,8 @@
 ### Alguns de meus destaques na carreira :
 
 - Desenvolvimento melhorias e correções de APIs bancárias do Pix .
-- Criar testes automatizados para APIs em Ruby.
-- Migração de microsistemas locais para o ambiente do Google Cloud.
+- Criar testes automatizados para APIs e WSDL bancários em Ruby e Python.
+- Migração de microsistemas financeiros locais para o ambiente do Google Cloud.
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Ric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
