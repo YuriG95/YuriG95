@@ -8,7 +8,7 @@
   
 ### Alguns de meus destaques na carreira :
 
-- Desenvolvimento melhorias e correções de APIs bancárias do Pix .
+- Desenvolvimento, melhorias e correções de APIs bancárias do Pix .
 - Criar testes automatizados para APIs e WSDL bancários em Ruby e Python.
 - Migração de microsistemas financeiros locais para o ambiente do Google Cloud.
   
